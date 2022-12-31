@@ -1,4 +1,4 @@
-***Median in a row-wise sorted Matrix***  
+# Median in a row-wise sorted Matrix 
 
 Given a row wise sorted matrix of size R*C where R and C are always odd, find the median of the matrix
 
